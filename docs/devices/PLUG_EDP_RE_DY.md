@@ -27,7 +27,7 @@ pageClass: device-page
 
 
 ### Pairing
-Factory reset the plug (hold the switch button for >10sec). After resetting the switch will automatically connect.
+Pairing mode is triggered when the plug is reset to factory. Hold the switch button until the light flashes 5 times. 
 <!-- Notes END: Do not edit below this line -->
 
 
